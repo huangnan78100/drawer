@@ -2,7 +2,7 @@
 react-native-demo
 use react native write list and item detail
 # review
-![review](https://github.com/huangnan78100/react-native-demo/blob/master/review-image/2.png)	![review](https://github.com/huangnan78100/react-native-demo/blob/master/review-image/1.png) 
+![review](https://github.com/huangnan78100/drawer/blob/master/CoustomDrawer/review_image/close.png)	![review](https://github.com/huangnan78100/drawer/blob/master/CoustomDrawer/review_image/open.png) 
 # Platforms Supported
   Android
 # Getting Started
