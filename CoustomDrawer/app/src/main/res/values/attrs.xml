@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <declare-styleable name="IMGColorRadio" tools:ignore="ResourceName">
+        <attr name="image_color" format="color" />
+        <attr name="image_stroke_color" format="color" />
+    </declare-styleable>
+    
+    <declare-styleable name="CoustomDrawerLayout">
+        <attr name="image_src" format="reference"></attr>
+    </declare-styleable>
+    
+</resources>
